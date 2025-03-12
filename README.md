@@ -1,6 +1,6 @@
 ## Hi, I'm Rebeca 👋
  
-- 🧠 I'm doing my Bachelor's degree in Information Technology.<br?
+- 🧠 I'm doing my Bachelor's degree in Information Technology.<br>
 - 🔭 I'm currently working on a project with my friends and my personal portfolio site.<br>
 - 🌱 I'm currently learning JavaScript, C++, HTML, CSS, and web design.<br>
 - 😃 I'm excited for new things!<br>
